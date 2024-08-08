@@ -116,4 +116,10 @@ footer {
     .nav-toggle-label {
         display: none;
     }
+
+    /* Main content */
+    main {
+        /* Push main content down to accommodate larger header */
+        margin-top: 61px;
+    }
 }
